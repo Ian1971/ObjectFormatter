@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectFormatting", "ObjectFormatter\ObjectFormatting.csproj", "{6A48B178-C06B-44B3-89D6-1465C1B29316}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectFormatterConsole", "ObjectFormatterConsole\ObjectFormatterConsole.csproj", "{736C4173-A095-4B3D-9A6E-B671AD2D4538}"
@@ -9,9 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectFormatterTests", "Obj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9A34C2F8-335B-4766-9B9D-6B0F5F0770BB}"
 	ProjectSection(SolutionItems) = preProject
-		Local.testsettings = Local.testsettings
 		ObjectFormatter.vsmdi = ObjectFormatter.vsmdi
-		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
 EndProject
 Global
